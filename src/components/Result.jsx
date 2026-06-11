@@ -8,7 +8,8 @@ const CATEGORY_NAMES = {
   similarity_distance: 'Similarity & Distance',
   clustering: 'Clustering Analysis',
   association_rules: 'Association Rules',
-  classification_ml: 'Classification & ML'
+  classification_ml: 'Classification & ML',
+  true_false: 'True & False'
 };
 
 const Result = ({ score, total, userAnswers, questions, flaggedQuestions = {}, onRestart }) => {

@@ -20,7 +20,8 @@ const CATEGORY_NAMES = {
   similarity_distance: 'Similarity & Distance',
   clustering: 'Clustering Analysis',
   association_rules: 'Association Rules',
-  classification_ml: 'Classification & ML'
+  classification_ml: 'Classification & ML',
+  true_false: 'True & False'
 };
 
 const CATEGORY_ICONS = {
@@ -30,7 +31,8 @@ const CATEGORY_ICONS = {
   similarity_distance: '📏',
   clustering: '📍',
   association_rules: '🔗',
-  classification_ml: '🤖'
+  classification_ml: '🤖',
+  true_false: '✔️'
 };
 
 const Quiz = () => {
@@ -52,10 +54,13 @@ const Quiz = () => {
 
   // Get question counts per category
   const getCategoryCounts = () => {
-    const counts = { all: rawQuestions.length };
+    const counts = { all: rawQuestions.length, true_false: 0 };
     rawQuestions.forEach(q => {
       const cat = q.category || 'intro_concepts';
       counts[cat] = (counts[cat] || 0) + 1;
+      if (q.type === 'boolean') {
+        counts.true_false += 1;
+      }
     });
     return counts;
   };
@@ -65,7 +70,9 @@ const Quiz = () => {
   // Start the quiz
   const handleStartQuiz = () => {
     let quizQuestions = [...rawQuestions];
-    if (selectedCategory !== 'all') {
+    if (selectedCategory === 'true_false') {
+      quizQuestions = quizQuestions.filter(q => q.type === 'boolean');
+    } else if (selectedCategory !== 'all') {
       quizQuestions = quizQuestions.filter(q => q.category === selectedCategory);
     }
     if (shuffleEnabled) {
@@ -144,7 +151,9 @@ const Quiz = () => {
     setCurrentIndex(0);
     
     let quizQuestions = [...rawQuestions];
-    if (selectedCategory !== 'all') {
+    if (selectedCategory === 'true_false') {
+      quizQuestions = quizQuestions.filter(q => q.type === 'boolean');
+    } else if (selectedCategory !== 'all') {
       quizQuestions = quizQuestions.filter(q => q.category === selectedCategory);
     }
     if (shuffleEnabled) {
