@@ -10,7 +10,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 10,
@@ -127,7 +136,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 11,
@@ -140,7 +150,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 12,
@@ -153,7 +164,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 13,
@@ -166,7 +178,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 14,
@@ -179,7 +192,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 15,
@@ -192,7 +206,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 16,
@@ -205,7 +220,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 17,
@@ -218,7 +234,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 18,
@@ -231,7 +248,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 19,
@@ -244,7 +262,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 20,
@@ -257,7 +276,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 21,
@@ -270,7 +290,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 22,
@@ -283,7 +304,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 23,
@@ -296,7 +318,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 24,
@@ -309,7 +332,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 25,
@@ -322,7 +346,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 26,
@@ -335,7 +360,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 27,
@@ -348,7 +374,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 28,
@@ -361,7 +388,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 29,
@@ -374,7 +402,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 30,
@@ -387,7 +416,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 31,
@@ -400,7 +430,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 32,
@@ -413,7 +444,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 33,
@@ -426,7 +458,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "classification_ml"
   },
   {
     "id": 34,
@@ -439,7 +472,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 35,
@@ -452,7 +486,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 36,
@@ -465,7 +500,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 37,
@@ -478,7 +514,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 38,
@@ -491,7 +528,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 39,
@@ -504,7 +542,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 40,
@@ -517,7 +556,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 41,
@@ -530,7 +570,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 42,
@@ -543,7 +584,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 43,
@@ -556,7 +598,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 44,
@@ -569,7 +612,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 45,
@@ -582,7 +626,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 46,
@@ -595,7 +640,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 47,
@@ -608,7 +654,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 48,
@@ -621,7 +668,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 49,
@@ -634,7 +682,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 50,
@@ -647,7 +696,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 51,
@@ -660,7 +710,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 52,
@@ -673,7 +724,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 53,
@@ -686,7 +738,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "classification_ml"
   },
   {
     "id": 54,
@@ -699,7 +752,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 55,
@@ -712,7 +766,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 56,
@@ -725,7 +780,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 57,
@@ -738,7 +794,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 58,
@@ -751,7 +808,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 59,
@@ -764,7 +822,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 60,
@@ -777,7 +836,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 61,
@@ -790,7 +850,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 62,
@@ -803,7 +864,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "intro_concepts"
   },
   {
     "id": 63,
@@ -816,7 +878,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 64,
@@ -829,7 +892,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 65,
@@ -842,7 +906,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 66,
@@ -855,7 +920,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 67,
@@ -868,7 +934,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 68,
@@ -881,7 +948,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 69,
@@ -894,7 +962,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 70,
@@ -907,7 +976,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 71,
@@ -920,7 +990,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 72,
@@ -933,7 +1004,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 73,
@@ -946,7 +1018,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 74,
@@ -959,7 +1032,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 75,
@@ -972,7 +1046,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 76,
@@ -985,7 +1060,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 77,
@@ -998,7 +1074,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 78,
@@ -1011,7 +1088,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 79,
@@ -1024,7 +1102,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 80,
@@ -1037,7 +1116,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 81,
@@ -1050,7 +1130,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 82,
@@ -1063,7 +1144,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 83,
@@ -1076,7 +1158,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 84,
@@ -1089,7 +1172,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 85,
@@ -1102,7 +1186,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 86,
@@ -1115,7 +1200,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 87,
@@ -1128,7 +1214,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 88,
@@ -1141,7 +1228,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 89,
@@ -1154,7 +1242,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 90,
@@ -1167,7 +1256,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 91,
@@ -1180,7 +1270,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 92,
@@ -1193,7 +1284,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 93,
@@ -1206,7 +1298,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 94,
@@ -1219,7 +1312,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 95,
@@ -1232,7 +1326,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 96,
@@ -1245,7 +1340,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 97,
@@ -1258,7 +1354,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 98,
@@ -1271,7 +1368,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 99,
@@ -1284,7 +1382,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 100,
@@ -1297,7 +1396,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 101,
@@ -1310,7 +1410,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 102,
@@ -1323,7 +1424,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 103,
@@ -1336,7 +1438,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 104,
@@ -1349,7 +1452,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 105,
@@ -1362,7 +1466,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 106,
@@ -1375,7 +1480,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 107,
@@ -1388,7 +1494,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 108,
@@ -1401,7 +1508,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 109,
@@ -1414,7 +1522,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 110,
@@ -1427,7 +1536,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 111,
@@ -1440,7 +1550,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 112,
@@ -1453,7 +1564,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 113,
@@ -1466,7 +1578,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 114,
@@ -1479,7 +1592,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 115,
@@ -1492,7 +1606,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 116,
@@ -1505,7 +1620,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 117,
@@ -1518,7 +1634,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 118,
@@ -1531,7 +1648,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 119,
@@ -1544,7 +1662,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 120,
@@ -1557,7 +1676,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 121,
@@ -1570,7 +1690,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 122,
@@ -1583,7 +1704,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 123,
@@ -1596,7 +1718,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 124,
@@ -1609,7 +1732,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 125,
@@ -1622,7 +1746,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 126,
@@ -1635,7 +1760,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 127,
@@ -1648,7 +1774,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 128,
@@ -1661,7 +1788,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 129,
@@ -1674,7 +1802,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 130,
@@ -1687,7 +1816,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 131,
@@ -1700,7 +1830,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 132,
@@ -1713,7 +1844,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 133,
@@ -1726,7 +1858,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 134,
@@ -1739,7 +1872,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 135,
@@ -1752,7 +1886,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 136,
@@ -1765,7 +1900,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 137,
@@ -1778,7 +1914,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 138,
@@ -1791,7 +1928,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 139,
@@ -1804,7 +1942,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 140,
@@ -1817,7 +1956,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 141,
@@ -1830,7 +1970,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 142,
@@ -1843,7 +1984,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 143,
@@ -1856,7 +1998,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 144,
@@ -1869,7 +2012,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 145,
@@ -1882,7 +2026,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 146,
@@ -1895,7 +2040,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 147,
@@ -1908,7 +2054,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 148,
@@ -1921,7 +2068,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 149,
@@ -1934,7 +2082,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 150,
@@ -1947,7 +2096,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "data_preprocessing"
   },
   {
     "id": 151,
@@ -1960,11 +2110,12 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 152,
-    "question": "What is the Euclidean distance between two points in a two-dimensional space? square root of \u2026\u2026\u2026",
+    "question": "What is the Euclidean distance between two points in a two-dimensional space? square root of ………",
     "options": [
       "(x1 - x2)2 + (y1 - y2)2",
       "x1 + x2 + y1 + y2",
@@ -1973,7 +2124,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 153,
@@ -1986,7 +2138,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 154,
@@ -1999,7 +2152,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 155,
@@ -2012,7 +2166,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 156,
@@ -2025,7 +2180,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 157,
@@ -2038,7 +2194,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 158,
@@ -2051,7 +2208,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 159,
@@ -2064,7 +2222,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 160,
@@ -2077,7 +2236,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 161,
@@ -2090,7 +2250,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 162,
@@ -2103,7 +2264,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 163,
@@ -2116,7 +2278,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 164,
@@ -2129,7 +2292,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 165,
@@ -2142,7 +2306,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 166,
@@ -2155,7 +2320,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 167,
@@ -2168,7 +2334,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 168,
@@ -2181,7 +2348,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 169,
@@ -2194,7 +2362,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 170,
@@ -2207,7 +2376,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 171,
@@ -2220,7 +2390,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 172,
@@ -2233,7 +2404,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 173,
@@ -2246,7 +2418,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 174,
@@ -2259,7 +2432,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 175,
@@ -2272,7 +2446,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 176,
@@ -2285,7 +2460,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 177,
@@ -2298,7 +2474,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 178,
@@ -2311,7 +2488,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 179,
@@ -2324,7 +2502,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 180,
@@ -2337,7 +2516,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 181,
@@ -2350,7 +2530,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 182,
@@ -2363,7 +2544,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 183,
@@ -2376,7 +2558,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 184,
@@ -2389,7 +2572,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "similarity_distance"
   },
   {
     "id": 185,
@@ -2402,7 +2586,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 186,
@@ -2415,7 +2600,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 187,
@@ -2428,7 +2614,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 188,
@@ -2441,7 +2628,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 189,
@@ -2454,7 +2642,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 190,
@@ -2467,7 +2656,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 191,
@@ -2480,7 +2670,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "association_rules"
   },
   {
     "id": 192,
@@ -2493,7 +2684,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "association_rules"
   },
   {
     "id": 193,
@@ -2506,7 +2698,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "association_rules"
   },
   {
     "id": 194,
@@ -2519,7 +2712,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "association_rules"
   },
   {
     "id": 195,
@@ -2532,7 +2726,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "association_rules"
   },
   {
     "id": 196,
@@ -2545,7 +2740,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "association_rules"
   },
   {
     "id": 197,
@@ -2558,7 +2754,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "association_rules"
   },
   {
     "id": 198,
@@ -2571,7 +2768,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "association_rules"
   },
   {
     "id": 199,
@@ -2584,7 +2782,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "association_rules"
   },
   {
     "id": 200,
@@ -2597,7 +2796,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "association_rules"
   },
   {
     "id": 201,
@@ -2610,7 +2810,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 202,
@@ -2623,7 +2824,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 203,
@@ -2636,7 +2838,8 @@
     ],
     "answer": "C",
     "answerIndex": 2,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 204,
@@ -2649,7 +2852,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 205,
@@ -2662,7 +2866,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 206,
@@ -2675,7 +2880,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 207,
@@ -2688,7 +2894,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 208,
@@ -2701,7 +2908,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 209,
@@ -2714,7 +2922,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 210,
@@ -2727,7 +2936,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 211,
@@ -2740,7 +2950,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 212,
@@ -2753,7 +2964,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 213,
@@ -2766,7 +2978,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 214,
@@ -2779,7 +2992,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 215,
@@ -2792,7 +3006,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 216,
@@ -2805,7 +3020,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 217,
@@ -2818,7 +3034,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 218,
@@ -2831,7 +3048,8 @@
     ],
     "answer": "B",
     "answerIndex": 1,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 219,
@@ -2844,7 +3062,8 @@
     ],
     "answer": "D",
     "answerIndex": 3,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 220,
@@ -2857,7 +3076,8 @@
     ],
     "answer": "A",
     "answerIndex": 0,
-    "type": "mcq"
+    "type": "mcq",
+    "category": "clustering"
   },
   {
     "id": 221,
@@ -2868,7 +3088,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "intro_concepts"
   },
   {
     "id": 222,
@@ -2879,7 +3100,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 223,
@@ -2890,7 +3112,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "classification_ml"
   },
   {
     "id": 224,
@@ -2901,7 +3124,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "intro_concepts"
   },
   {
     "id": 225,
@@ -2912,7 +3136,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 226,
@@ -2923,7 +3148,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 227,
@@ -2934,7 +3160,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 228,
@@ -2945,7 +3172,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 229,
@@ -2956,7 +3184,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "similarity_distance"
   },
   {
     "id": 230,
@@ -2967,7 +3196,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "similarity_distance"
   },
   {
     "id": 231,
@@ -2978,7 +3208,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "similarity_distance"
   },
   {
     "id": 232,
@@ -2989,7 +3220,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "similarity_distance"
   },
   {
     "id": 233,
@@ -3000,7 +3232,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   },
   {
     "id": 234,
@@ -3011,7 +3244,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   },
   {
     "id": 235,
@@ -3022,7 +3256,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   },
   {
     "id": 236,
@@ -3033,7 +3268,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   },
   {
     "id": 237,
@@ -3044,7 +3280,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "intro_concepts"
   },
   {
     "id": 238,
@@ -3055,7 +3292,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 239,
@@ -3066,7 +3304,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "clustering"
   },
   {
     "id": 240,
@@ -3077,7 +3316,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 241,
@@ -3088,7 +3328,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 242,
@@ -3099,7 +3340,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 243,
@@ -3110,7 +3352,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 244,
@@ -3121,7 +3364,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 245,
@@ -3132,7 +3376,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "similarity_distance"
   },
   {
     "id": 246,
@@ -3143,7 +3388,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "similarity_distance"
   },
   {
     "id": 247,
@@ -3154,7 +3400,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "similarity_distance"
   },
   {
     "id": 248,
@@ -3165,7 +3412,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "clustering"
   },
   {
     "id": 249,
@@ -3176,7 +3424,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   },
   {
     "id": 250,
@@ -3187,7 +3436,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   },
   {
     "id": 251,
@@ -3198,7 +3448,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   },
   {
     "id": 252,
@@ -3209,7 +3460,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   },
   {
     "id": 253,
@@ -3220,7 +3472,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   },
   {
     "id": 254,
@@ -3231,7 +3484,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "classification_ml"
   },
   {
     "id": 255,
@@ -3242,7 +3496,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 256,
@@ -3253,7 +3508,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   },
   {
     "id": 257,
@@ -3264,7 +3520,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "classification_ml"
   },
   {
     "id": 258,
@@ -3275,7 +3532,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "clustering"
   },
   {
     "id": 259,
@@ -3286,7 +3544,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 260,
@@ -3297,7 +3556,8 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "classification_ml"
   },
   {
     "id": 261,
@@ -3308,7 +3568,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   },
   {
     "id": 262,
@@ -3319,7 +3580,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "intro_concepts"
   },
   {
     "id": 263,
@@ -3330,7 +3592,8 @@
     ],
     "answer": "True",
     "answerIndex": 0,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "data_preprocessing"
   },
   {
     "id": 264,
@@ -3341,6 +3604,7 @@
     ],
     "answer": "False",
     "answerIndex": 1,
-    "type": "boolean"
+    "type": "boolean",
+    "category": "association_rules"
   }
 ]

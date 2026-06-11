@@ -1,8 +1,34 @@
 import React, { useState } from 'react';
 import Question from './Question';
 
+const CATEGORY_NAMES = {
+  all: 'All Categories',
+  intro_concepts: 'Intro & Concepts',
+  data_preprocessing: 'Data Preprocessing',
+  similarity_distance: 'Similarity & Distance',
+  clustering: 'Clustering Analysis',
+  association_rules: 'Association Rules',
+  classification_ml: 'Classification & ML'
+};
+
 const Result = ({ score, total, userAnswers, questions, flaggedQuestions = {}, onRestart }) => {
   const [filter, setFilter] = useState('all'); // 'all' | 'correct' | 'incorrect' | 'skipped' | 'flagged'
+
+  // Group questions by category and calculate score per category
+  const categoryStats = {};
+  questions.forEach((q, index) => {
+    const cat = q.category || 'intro_concepts';
+    if (!categoryStats[cat]) {
+      categoryStats[cat] = { correct: 0, total: 0 };
+    }
+    categoryStats[cat].total += 1;
+    
+    const userAnswer = userAnswers[index];
+    const isCorrect = userAnswer === q.answerIndex;
+    if (userAnswer !== undefined && userAnswer !== null && isCorrect) {
+      categoryStats[cat].correct += 1;
+    }
+  });
 
   const percent = total > 0 ? Math.round((score / total) * 100) : 0;
   
@@ -100,6 +126,42 @@ const Result = ({ score, total, userAnswers, questions, flaggedQuestions = {}, o
         </svg>
         Restart Quiz
       </button>
+
+      {/* Topic Breakdown */}
+      {Object.keys(categoryStats).length > 0 && (
+        <div style={{ marginTop: '2.5rem', borderTop: '1px solid var(--panel-border)', paddingTop: '2.5rem' }}>
+          <h3 className="category-results-title">Topic Performance Breakdown</h3>
+          <div className="category-results-list">
+            {Object.keys(categoryStats).map((catKey) => {
+              const { correct, total: catTotal } = categoryStats[catKey];
+              const catPercent = catTotal > 0 ? Math.round((correct / catTotal) * 100) : 0;
+              return (
+                <div key={catKey} className="category-result-item">
+                  <div className="category-result-header">
+                    <div className="category-result-info">
+                      <span>{CATEGORY_NAMES[catKey] || catKey}</span>
+                    </div>
+                    <span className="category-result-score">
+                      {correct} / {catTotal} (<span className="category-result-percent">{catPercent}%</span>)
+                    </span>
+                  </div>
+                  <div className="progress-track" style={{ height: '6px' }}>
+                    <div 
+                      className="progress-bar" 
+                      style={{ 
+                        width: `${catPercent}%`,
+                        background: catPercent >= 75 ? 'linear-gradient(90deg, #10b981 0%, #34d399 100%)' :
+                                    catPercent >= 50 ? 'linear-gradient(90deg, #f59e0b 0%, #fbbf24 100%)' :
+                                                       'linear-gradient(90deg, #ef4444 0%, #f87171 100%)'
+                      }}
+                    />
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
 
       {/* Review Section */}
       <div className="review-section">

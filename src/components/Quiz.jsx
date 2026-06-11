@@ -13,6 +13,26 @@ const shuffleArray = (array) => {
   return arr;
 };
 
+const CATEGORY_NAMES = {
+  all: 'All Categories',
+  intro_concepts: 'Intro & Concepts',
+  data_preprocessing: 'Data Preprocessing',
+  similarity_distance: 'Similarity & Distance',
+  clustering: 'Clustering Analysis',
+  association_rules: 'Association Rules',
+  classification_ml: 'Classification & ML'
+};
+
+const CATEGORY_ICONS = {
+  all: '📚',
+  intro_concepts: '💡',
+  data_preprocessing: '🧹',
+  similarity_distance: '📏',
+  clustering: '📍',
+  association_rules: '🔗',
+  classification_ml: '🤖'
+};
+
 const Quiz = () => {
   // Config & State
   const [phase, setPhase] = useState('welcome'); // 'welcome' | 'active' | 'completed'
@@ -20,6 +40,7 @@ const Quiz = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [userAnswers, setUserAnswers] = useState({}); // { [questionIndex]: selectedOptionIndex }
   const [flaggedQuestions, setFlaggedQuestions] = useState({}); // { [questionIndex]: boolean }
+  const [selectedCategory, setSelectedCategory] = useState('all');
   
   // Customization Options
   const [shuffleEnabled, setShuffleEnabled] = useState(false);
@@ -29,9 +50,24 @@ const Quiz = () => {
     setQuestions(rawQuestions);
   }, []);
 
+  // Get question counts per category
+  const getCategoryCounts = () => {
+    const counts = { all: rawQuestions.length };
+    rawQuestions.forEach(q => {
+      const cat = q.category || 'intro_concepts';
+      counts[cat] = (counts[cat] || 0) + 1;
+    });
+    return counts;
+  };
+
+  const categoryCounts = getCategoryCounts();
+
   // Start the quiz
   const handleStartQuiz = () => {
     let quizQuestions = [...rawQuestions];
+    if (selectedCategory !== 'all') {
+      quizQuestions = quizQuestions.filter(q => q.category === selectedCategory);
+    }
     if (shuffleEnabled) {
       quizQuestions = shuffleArray(quizQuestions);
     }
@@ -108,6 +144,9 @@ const Quiz = () => {
     setCurrentIndex(0);
     
     let quizQuestions = [...rawQuestions];
+    if (selectedCategory !== 'all') {
+      quizQuestions = quizQuestions.filter(q => q.category === selectedCategory);
+    }
     if (shuffleEnabled) {
       quizQuestions = shuffleArray(quizQuestions);
     }
@@ -130,9 +169,27 @@ const Quiz = () => {
         <div className="welcome-icon">⚡</div>
         <h2 className="welcome-title">Data Mining Questions Bank</h2>
         <p className="welcome-description">
-          Test your understanding with all <strong>{rawQuestions.length} questions</strong> extracted directly from the Data Mining question pool. Features multiple choice & True/False questions.
+          Practice and master core concepts with {rawQuestions.length} questions organized into key topics.
         </p>
 
+        <h3 className="categories-title">Select Topic</h3>
+        <div className="categories-grid">
+          {Object.keys(CATEGORY_NAMES).map((catKey) => (
+            <div
+              key={catKey}
+              className={`category-card ${selectedCategory === catKey ? 'active' : ''}`}
+              onClick={() => setSelectedCategory(catKey)}
+            >
+              <div className="category-card-header">
+                <span className="category-card-icon">{CATEGORY_ICONS[catKey]}</span>
+                <span>{CATEGORY_NAMES[catKey]}</span>
+                <span className="category-card-count">{categoryCounts[catKey]}</span>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        <h3 className="categories-title" style={{ marginTop: '0' }}>Settings</h3>
         <div className="settings-grid">
           <div 
             className={`settings-card ${shuffleEnabled ? 'active' : ''}`}
@@ -146,7 +203,7 @@ const Quiz = () => {
                 onChange={() => {}} // handled by click
               />
             </div>
-            <span className="settings-card-desc">Randomize the order of questions to test your raw knowledge.</span>
+            <span className="settings-card-desc">Randomize question order to test raw knowledge.</span>
           </div>
         </div>
 
@@ -251,43 +308,19 @@ const Quiz = () => {
             const answered = userAnswers[idx] !== undefined && userAnswers[idx] !== null;
             const active = idx === currentIndex;
             const flagged = flaggedQuestions[idx] === true;
+            const isCorrect = answered && userAnswers[idx] === q.answerIndex;
             
-            let btnStyle = {
-              width: flagged ? '38px' : '28px',
-              height: '28px',
-              borderRadius: '6px',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              fontSize: '0.75rem',
-              fontWeight: '600',
-              cursor: 'pointer',
-              border: '1px solid transparent',
-              transition: 'all 0.15s ease',
-            };
-
-            if (active) {
-              btnStyle.background = 'hsl(var(--color-primary))';
-              btnStyle.color = 'white';
-              btnStyle.boxShadow = '0 0 8px rgba(99, 102, 241, 0.3)';
-            } else if (flagged) {
-              btnStyle.background = 'rgba(245, 158, 11, 0.08)';
-              btnStyle.border = '1px solid #f59e0b';
-              btnStyle.color = '#d97706';
-            } else if (answered) {
-              btnStyle.background = 'rgba(99, 102, 241, 0.08)';
-              btnStyle.border = '1px solid rgba(99, 102, 241, 0.2)';
-              btnStyle.color = '#4f46e5';
-            } else {
-              btnStyle.background = 'var(--option-bg)';
-              btnStyle.border = '1px solid var(--option-border)';
-              btnStyle.color = 'var(--text-secondary)';
+            let btnClass = "nav-btn";
+            if (active) btnClass += " active";
+            if (flagged) btnClass += " flagged";
+            if (answered) {
+              btnClass += isCorrect ? " correct" : " wrong";
             }
 
             return (
               <button
                 key={q.id}
-                style={btnStyle}
+                className={btnClass}
                 onClick={() => setCurrentIndex(idx)}
                 title={`Question ${idx + 1}${flagged ? ' (Bookmarked)' : ''}`}
                 type="button"
