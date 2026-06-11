@@ -1,0 +1,3346 @@
+[
+  {
+    "id": 1,
+    "question": "What is data mining?",
+    "options": [
+      "The process of finding hidden patterns and relationships in data.",
+      "The process of cleaning data.",
+      "The process of storing data.",
+      "The process of visualizing data."
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a data mining task?",
+    "options": [
+      "Data cleaning.",
+      "Data visualization.",
+      "Clustering.",
+      "Data warehousing."
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary goal of data mining?",
+    "options": [
+      "To build a data warehouse.",
+      "To create visualizations of data.",
+      "To discover knowledge from data.",
+      "To clean and preprocess data."
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is not a common data mining technique?",
+    "options": [
+      "Regression analysis.",
+      "Classification.",
+      "Neural networks.",
+      "Data warehousing."
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 5,
+    "question": "What is the difference between data mining and machine learning?",
+    "options": [
+      "Data mining is a subset of machine learning.",
+      "Machine learning is a subset of data mining.",
+      "Data mining is focused on discovering knowledge from data, while machine learning is focused on developing algorithms that can learn from data.",
+      "There is no difference between data mining and machine learning."
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 6,
+    "question": "What is a data warehouse?",
+    "options": [
+      "A storage facility for data that has been cleaned and preprocessed.",
+      "A software tool for visualizing data.",
+      "A technique for clustering data.",
+      "A type of data mining algorithm."
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is not a step in the data mining process?",
+    "options": [
+      "Data cleaning.",
+      "Data visualization.",
+      "Data warehousing.",
+      "Model building and evaluation."
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a data mining application?",
+    "options": [
+      "Social networking.",
+      "Spreadsheet software.",
+      "Web browsing.",
+      "Word processing."
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 9,
+    "question": "What is the relationship between data mining and knowledge discovery in databases (KDD)?",
+    "options": [
+      "Data mining is a synonym for KDD.",
+      "KDD is a synonym for data mining.",
+      "Data mining is a step in the KDD process.",
+      "KDD is a step in the data mining process."
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is not a data mining task?",
+    "options": [
+      "Clustering",
+      "Classification",
+      "Visualization",
+      "Data warehousing"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is not a type of data mining pattern?",
+    "options": [
+      "Association",
+      "Classification",
+      "Regression",
+      "Correlation"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is not a type of data mining algorithm?",
+    "options": [
+      "Neural networks",
+      "Clustering",
+      "Decision trees",
+      "Data warehousing"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is not a goal of data mining?",
+    "options": [
+      "Predictive modeling",
+      "Anomaly detection",
+      "Data warehousing",
+      "Descriptive modeling"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is not a common data mining application?",
+    "options": [
+      "Fraud detection",
+      "Recommender systems",
+      "Web search engines",
+      "Spreadsheet software"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is not a type of data mining technique?",
+    "options": [
+      "K-means clustering",
+      "Naive Bayes classification",
+      "Random forest data warehousing",
+      "Support vector machines"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 16,
+    "question": "What is the primary role of a data scientist in data mining?",
+    "options": [
+      "To collect data",
+      "To preprocess data",
+      "To build data models",
+      "All of the above"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is not a data mining software tool?",
+    "options": [
+      "IBM SPSS Modeler",
+      "R Studio",
+      "Microsoft Excel",
+      "Tableau"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is not a characteristic of data mining techniques?",
+    "options": [
+      "Scalability",
+      "Efficiency",
+      "Interpretability",
+      "Reliability"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 19,
+    "question": "What is the primary difference between data mining and traditional statistics?",
+    "options": [
+      "Data mining focuses on finding patterns and relationships, while traditional statistics focus on hypothesis testing and parameter estimation.",
+      "Data mining uses unsupervised learning, while traditional statistics use supervised learning.",
+      "Data mining uses classification algorithms, while traditional statistics use regression analysis.",
+      "There is no difference between data mining and traditional statistics."
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is not a typical data mining task in business applications?",
+    "options": [
+      "Market basket analysis",
+      "Customer segmentation",
+      "Fraud detection",
+      "Genetic sequencing"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is not a common type of data in big data applications?",
+    "options": [
+      "Structured data",
+      "Semi-structured data",
+      "Unstructured data",
+      "Nonexistent data"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is not a common data preprocessing step in data mining?",
+    "options": [
+      "Data cleaning",
+      "Data integration",
+      "Data warehousing",
+      "Data reduction"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 23,
+    "question": "What is the primary challenge of data preprocessing in data mining?",
+    "options": [
+      "Finding the right data",
+      "Handling big data",
+      "Cleaning and integrating data from multiple sources",
+      "Building accurate models"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is not a common data mining application in healthcare?",
+    "options": [
+      "Predictive modeling for disease diagnosis",
+      "Identifying at-risk patients for preventive care",
+      "Fraud detection in healthcare billing",
+      "Analyzing social media data to understand patient opinions and preferences"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is not a common data mining application in finance?",
+    "options": [
+      "Fraud detection",
+      "Credit risk assessment",
+      "Portfolio optimization",
+      "Market basket analysis"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 26,
+    "question": "What is the primary role of visualization in data mining?",
+    "options": [
+      "To make data more aesthetically pleasing",
+      "To explore data and discover patterns and relationships",
+      "To communicate data findings to stakeholders",
+      "To preprocess data"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is not a common data mining task in social media applications?",
+    "options": [
+      "Sentiment analysis",
+      "Trend analysis",
+      "Network analysis",
+      "Regression analysis"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is not a common data mining application in sports?",
+    "options": [
+      "Predictive modeling for game outcomes",
+      "Player performance analysis",
+      "Social media sentiment analysis of team fans",
+      "Fraud detection in sports betting"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 29,
+    "question": "Which of the following is not a common type of data visualization used in data mining?",
+    "options": [
+      "Scatterplots",
+      "Heatmaps",
+      "Bar charts",
+      "Audio files"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is not a common data mining application in retail?",
+    "options": [
+      "Market basket analysis",
+      "Customer segmentation",
+      "Fraud detection",
+      "Genetic sequencing"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 31,
+    "question": "What is the primary goal of data reduction in data preprocessing?",
+    "options": [
+      "To eliminate irrelevant or redundant data",
+      "To combine multiple datasets into a single dataset",
+      "To convert unstructured data into structured data",
+      "To scale data to a standardized range"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is not a common data mining task in manufacturing?",
+    "options": [
+      "Predictive maintenance",
+      "Quality control",
+      "Supply chain optimization",
+      "Fraud detection"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is not a common data mining algorithm for classification?",
+    "options": [
+      "K-nearest neighbors",
+      "Naive Bayes",
+      "Support vector machines",
+      "K-means clustering"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 34,
+    "question": "What is the primary difference between supervised and unsupervised learning in data mining?",
+    "options": [
+      "Supervised learning requires labeled data, while unsupervised learning does not.",
+      "Unsupervised learning requires labeled data, while supervised learning does not.",
+      "Supervised learning is used for classification tasks, while unsupervised learning is used for clustering tasks.",
+      "Unsupervised learning is used for classification tasks, while supervised learning is used for clustering tasks."
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is not a common data mining application in education?",
+    "options": [
+      "Predictive modeling for student success",
+      "Personalized learning recommendations",
+      "Fraud detection in financial aid applications",
+      "Social network analysis of student interactions"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is not a common data mining application in government?",
+    "options": [
+      "Predictive modeling for crime prevention",
+      "Analysis of voting patterns",
+      "Fraud detection in government programs",
+      "Genetic sequencing"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 37,
+    "question": "Which of the following is not a common data mining task in environmental science?",
+    "options": [
+      "Climate modeling and prediction",
+      "Analysis of biodiversity patterns",
+      "Fraud detection in carbon credit trading",
+      "Prediction of natural disasters"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is not a common data mining application in healthcare?",
+    "options": [
+      "Disease diagnosis and prediction",
+      "Patient monitoring and treatment optimization",
+      "Fraud detection in insurance claims",
+      "Drug discovery and development"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is not a common data mining technique for clustering analysis?",
+    "options": [
+      "K-means clustering",
+      "Hierarchical clustering",
+      "Density-based clustering",
+      "Naive Bayes"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 40,
+    "question": "What is the primary difference between data mining and machine learning?",
+    "options": [
+      "Data mining is a subset of machine learning.",
+      "Machine learning is a subset of data mining.",
+      "Data mining focuses on discovering patterns and relationships in data, while machine learning focuses on making predictions and decisions.",
+      "Machine learning focuses on discovering patterns and relationships in data, while data mining focuses on making predictions and decisions."
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following is not a common data mining application in finance?",
+    "options": [
+      "Fraud detection",
+      "Credit risk assessment",
+      "Investment portfolio optimization",
+      "Gene sequencing"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 42,
+    "question": "What is the primary goal of data cleaning in data preprocessing?",
+    "options": [
+      "To correct errors and inconsistencies in the data",
+      "To reduce the size of the data",
+      "To transform the data into a more meaningful format",
+      "To extract hidden patterns and relationships in the data"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is not a common data mining application in marketing?",
+    "options": [
+      "Customer segmentation",
+      "Market basket analysis",
+      "Fraud detection in online transactions",
+      "Predictive modeling for customer behavior"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is not a common data mining application in sports?",
+    "options": [
+      "Performance analysis and prediction",
+      "Injury prevention and management",
+      "Fraud detection in sports betting",
+      "Talent scouting and recruitment"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is not a common data mining technique for text mining?",
+    "options": [
+      "Sentiment analysis",
+      "Topic modeling",
+      "Word embedding",
+      "K-means clustering"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 46,
+    "question": "What is the primary goal of data integration in data preprocessing?",
+    "options": [
+      "To combine multiple datasets into a single dataset",
+      "To eliminate irrelevant or redundant data",
+      "To transform the data into a more meaningful format",
+      "To correct errors and inconsistencies in the data"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is not a common data mining technique for anomaly detection?",
+    "options": [
+      "Distance-based methods",
+      "Clustering-based methods",
+      "Association rule mining",
+      "Support vector machines"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 48,
+    "question": "What is the primary goal of data reduction in data preprocessing?",
+    "options": [
+      "To correct errors and inconsistencies in the data",
+      "To reduce the size of the data",
+      "To transform the data into a more meaningful format",
+      "To extract hidden patterns and relationships in the data"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is not a common data mining application in transportation?",
+    "options": [
+      "Traffic prediction and optimization",
+      "Route optimization",
+      "Fraud detection in toll collection",
+      "Customer satisfaction analysis"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is not a common data mining application in social media analysis?",
+    "options": [
+      "Sentiment analysis",
+      "Social network analysis",
+      "Customer segmentation",
+      "Image recognition"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 51,
+    "question": "What is the primary goal of feature selection in data preprocessing?",
+    "options": [
+      "To correct errors and inconsistencies in the data",
+      "To reduce the size of the data",
+      "To transform the data into a more meaningful format",
+      "To identify the most relevant features for analysis"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 52,
+    "question": "Which of the following is not a common data mining application in environmental monitoring?",
+    "options": [
+      "Climate change analysis and prediction",
+      "Pollution detection and prevention",
+      "Species conservation and management",
+      "Fraud detection in environmental research grants"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 53,
+    "question": "Which of the following is not a common data mining technique for classification analysis?",
+    "options": [
+      "Decision tree induction",
+      "Support vector machines",
+      "Naive Bayes",
+      "Principal component analysis"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 54,
+    "question": "What is the primary goal of data transformation in data preprocessing?",
+    "options": [
+      "To correct errors and inconsistencies in the data",
+      "To reduce the size of the data",
+      "To transform the data into a more meaningful format",
+      "To extract hidden patterns and relationships in the data"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following is not a common data mining application in education?",
+    "options": [
+      "Student performance analysis and prediction",
+      "Course recommendation and optimization",
+      "Fraud detection in student loan applications",
+      "Teacher evaluation and feedback analysis"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following is not a common data mining technique for clustering analysis?",
+    "options": [
+      "K-means clustering",
+      "Hierarchical clustering",
+      "Density-based clustering",
+      "Decision tree induction"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 57,
+    "question": "What is the primary goal of data cleaning in data preprocessing?",
+    "options": [
+      "To correct errors and inconsistencies in the data",
+      "To reduce the size of the data",
+      "To transform the data into a more meaningful format",
+      "To extract hidden patterns and relationships in the data"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 58,
+    "question": "Which of the following is not a common data mining application in finance?",
+    "options": [
+      "Fraud detection",
+      "Credit risk analysis",
+      "Stock price prediction",
+      "Customer segmentation"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 59,
+    "question": "Which of the following is not a common data mining technique for association rule mining?",
+    "options": [
+      "Apriori algorithm",
+      "FP-growth algorithm",
+      "Eclat algorithm",
+      "K-nearest neighbor algorithm"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 60,
+    "question": "What is the primary goal of data discretization in data preprocessing?",
+    "options": [
+      "To correct errors and inconsistencies in the data",
+      "To reduce the size of the data",
+      "To transform the data into a more meaningful format",
+      "To convert continuous data into categorical data"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 61,
+    "question": "Which of the following is not a common data mining application in healthcare?",
+    "options": [
+      "Disease diagnosis and prediction",
+      "Patient treatment optimization",
+      "Fraud detection in medical claims",
+      "Customer churn analysis"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is not a common data mining technique for text mining?",
+    "options": [
+      "Document clustering",
+      "Sentiment analysis",
+      "Named entity recognition",
+      "Principal component analysis"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 63,
+    "question": "What is the primary goal of data normalization in data preprocessing?",
+    "options": [
+      "To correct errors and inconsistencies in the data",
+      "To reduce the size of the data",
+      "To transform the data into a more meaningful format",
+      "To scale the data to a common range"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 64,
+    "question": "Which of the following is not a common data mining application in e-commerce?",
+    "options": [
+      "Market basket analysis",
+      "Customer segmentation",
+      "Fraud detection in online transactions",
+      "Weather forecasting"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 65,
+    "question": "Which of the following is not a common data mining technique for time series analysis?",
+    "options": [
+      "Moving average",
+      "Exponential smoothing",
+      "Fourier analysis",
+      "K-means clustering"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 66,
+    "question": "Which of the following is not a step in data preprocessing?",
+    "options": [
+      "Data integration",
+      "Data cleaning",
+      "Data transformation",
+      "Data analysis"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 67,
+    "question": "Which of the following is not a common method for handling missing data in data preprocessing?",
+    "options": [
+      "Deletion",
+      "Imputation",
+      "Substitution",
+      "Outlier detection"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 68,
+    "question": "Which of the following is not a common method for handling noisy data in data preprocessing?",
+    "options": [
+      "Binning",
+      "Regression",
+      "Clustering",
+      "Smoothing"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 69,
+    "question": "Which of the following is not a common method for handling categorical data in data preprocessing?",
+    "options": [
+      "One-hot encoding",
+      "Label encoding",
+      "Binary encoding",
+      "Scaling"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 70,
+    "question": "What is the primary goal of data reduction in data preprocessing?",
+    "options": [
+      "To eliminate irrelevant or redundant data",
+      "To correct errors and inconsistencies in the data",
+      "To transform the data into a more meaningful format",
+      "To extract hidden patterns and relationships in the data"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 71,
+    "question": "Which of the following is not a common method for handling skewed data in data preprocessing?",
+    "options": [
+      "Log transformation",
+      "Square root transformation",
+      "Box-Cox transformation",
+      "K-means clustering"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 72,
+    "question": "Which of the following is not a common method for feature selection in data preprocessing?",
+    "options": [
+      "Filter methods",
+      "Wrapper methods",
+      "Embedded methods",
+      "Clustering methods"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 73,
+    "question": "Which of the following is not a common method for feature extraction in data preprocessing?",
+    "options": [
+      "Principal component analysis (PCA)",
+      "Independent component analysis (ICA)",
+      "Singular value decomposition (SVD)",
+      "Apriori algorithm"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 74,
+    "question": "Which of the following is not a common method for data discretization in data preprocessing?",
+    "options": [
+      "Equal width binning",
+      "Equal frequency binning",
+      "Entropy-based binning",
+      "Z-score binning"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is not a common method for handling data skewness in data preprocessing?",
+    "options": [
+      "Log transformation",
+      "Square root transformation",
+      "Box-Cox transformation",
+      "Outlier detection"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 76,
+    "question": "Which of the following is not a common method for handling data sparsity in data preprocessing?",
+    "options": [
+      "Adding noise to the data",
+      "Weighting the data",
+      "Clustering the data",
+      "Dimensionality reduction"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 77,
+    "question": "Which of the following is not a common type of data normalization in data preprocessing?",
+    "options": [
+      "Min-max normalization",
+      "Z-score normalization",
+      "Median normalization",
+      "Log normalization"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 78,
+    "question": "Which of the following is not a common data reduction technique in data preprocessing?",
+    "options": [
+      "Principal component analysis (PCA)",
+      "Singular value decomposition (SVD)",
+      "Linear regression",
+      "Non-negative matrix factorization (NMF)"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 79,
+    "question": "Which of the following is not a common method for handling imbalanced data in data preprocessing?",
+    "options": [
+      "Oversampling",
+      "Undersampling",
+      "Synthetic minority oversampling technique (SMOTE)",
+      "Principal component analysis (PCA)"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 80,
+    "question": "Which of the following is not a common method for data transformation in data preprocessing?",
+    "options": [
+      "Normalization",
+      "Standardization",
+      "Aggregation",
+      "Discriminant analysis"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 81,
+    "question": "Which of the following is not a common method for handling data redundancy in data preprocessing?",
+    "options": [
+      "Correlation analysis",
+      "Principal component analysis (PCA)",
+      "Feature selection",
+      "Multicollinearity detection"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 82,
+    "question": "Which of the following is not a common data imputation method in data preprocessing?",
+    "options": [
+      "Mean imputation",
+      "Median imputation",
+      "Mode imputation",
+      "Regression imputation"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 83,
+    "question": "Which of the following is not a common method for handling outliers in data preprocessing?",
+    "options": [
+      "Z-score method",
+      "Box plot method",
+      "Interquartile range (IQR) method",
+      "Median method"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 84,
+    "question": "Which of the following is not a common method for handling data scaling in data preprocessing?",
+    "options": [
+      "Min-max scaling",
+      "Z-score scaling",
+      "Mean scaling",
+      "Log scaling"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following is a disadvantage of min-max normalization in data preprocessing?",
+    "options": [
+      "It preserves the original data distribution",
+      "It may be sensitive to outliers",
+      "It may lead to negative values",
+      "It is not suitable for categorical data"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 86,
+    "question": "Which of the following is a common method for handling missing data in data preprocessing?",
+    "options": [
+      "Removing the missing data points",
+      "Replacing the missing values with the mean of the feature",
+      "Replacing the missing values with the median of the feature",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 87,
+    "question": "Which of the following is not a common type of feature extraction in data preprocessing?",
+    "options": [
+      "Principal component analysis (PCA)",
+      "Linear discriminant analysis (LDA)",
+      "Non-negative matrix factorization (NMF)",
+      "Random forest"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 88,
+    "question": "Which of the following is a disadvantage of principal component analysis (PCA) in data preprocessing?",
+    "options": [
+      "It requires a large amount of computational resources",
+      "It may result in loss of interpretability of the data",
+      "It is not suitable for high-dimensional data",
+      "It does not handle missing data well"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 89,
+    "question": "Which of the following is a common technique for feature selection in data preprocessing?",
+    "options": [
+      "Mutual information",
+      "Recursive feature elimination (RFE)",
+      "Lasso regularization",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 90,
+    "question": "Which of the following is not a common method for handling data imbalance in data preprocessing?",
+    "options": [
+      "Random oversampling",
+      "Random undersampling",
+      "SMOTE",
+      "K-means clustering"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 91,
+    "question": "Which of the following is not a common data discretization method in data preprocessing?",
+    "options": [
+      "Equal width binning",
+      "Equal frequency binning",
+      "K-means clustering",
+      "Decision tree induction"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 92,
+    "question": "Which of the following is a common method for handling noise in data preprocessing?",
+    "options": [
+      "Smoothing",
+      "Discretization",
+      "Aggregation",
+      "Feature selection"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 93,
+    "question": "Which of the following is not a common data normalization method in data preprocessing?",
+    "options": [
+      "Min-max normalization",
+      "Z-score normalization",
+      "Range normalization",
+      "K-means normalization"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 94,
+    "question": "Which of the following is not a common data transformation method in data preprocessing?",
+    "options": [
+      "Log transformation",
+      "Square root transformation",
+      "Fourier transformation",
+      "Box-Cox transformation"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 95,
+    "question": "Which of the following is not a common outlier detection method in data preprocessing?",
+    "options": [
+      "Z-score method",
+      "Mahalanobis distance",
+      "Cook's distance",
+      "K-means clustering"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 96,
+    "question": "Which of the following is not a common data cleaning method in data preprocessing?",
+    "options": [
+      "Removing duplicates",
+      "Handling missing data",
+      "Handling outliers",
+      "Normalization"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 97,
+    "question": "Which of the following is a common method for feature scaling in data preprocessing?",
+    "options": [
+      "Min-max normalization",
+      "Z-score normalization",
+      "Range normalization",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 98,
+    "question": "Which of the following is a common data imputation method in data preprocessing?",
+    "options": [
+      "K-nearest neighbors (KNN)",
+      "Multiple imputation",
+      "Regression imputation",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 99,
+    "question": "Which of the following is not a common data reduction technique in data preprocessing?",
+    "options": [
+      "Principal component analysis (PCA)",
+      "Linear discriminant analysis (LDA)",
+      "Non-negative matrix factorization (NMF)",
+      "Random forest"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 100,
+    "question": "Which of the following is a common method for handling data skewness in data preprocessing?",
+    "options": [
+      "Log transformation",
+      "Box-Cox transformation",
+      "Power transformation",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 101,
+    "question": "Which of the following is not a common method for handling data sparsity in data preprocessing?",
+    "options": [
+      "Term frequency-inverse document frequency (TF-IDF)",
+      "Latent semantic analysis (LSA)",
+      "Singular value decomposition (SVD)",
+      "Random forest"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 102,
+    "question": "Which of the following is a common method for feature engineering in data preprocessing?",
+    "options": [
+      "One-hot encoding",
+      "Label encoding",
+      "Binary encoding",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 103,
+    "question": "Which of the following is not a common method for feature extraction in data preprocessing?",
+    "options": [
+      "Principal component analysis (PCA)",
+      "Linear discriminant analysis (LDA)",
+      "Non-negative matrix factorization (NMF)",
+      "Random forest"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 104,
+    "question": "Which of the following is not a common method for data discretization in data preprocessing?",
+    "options": [
+      "Equal width partitioning",
+      "Equal frequency partitioning",
+      "k-means clustering",
+      "Entropy-based discretization"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 105,
+    "question": "Which of the following is a common method for handling data imbalance in data preprocessing?",
+    "options": [
+      "Random under-sampling",
+      "Random over-sampling",
+      "Synthetic minority over-sampling technique (SMOTE)",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 106,
+    "question": "Which of the following is a common method for feature selection in data preprocessing?",
+    "options": [
+      "Filter methods",
+      "Wrapper methods",
+      "Embedded methods",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 107,
+    "question": "Which of the following is not a common method for feature construction in data preprocessing?",
+    "options": [
+      "PCA-based feature construction",
+      "LDA-based feature construction",
+      "Kernel-based feature construction",
+      "Random forest-based feature construction"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 108,
+    "question": "Which of the following is not a common method for dimensionality reduction in data preprocessing?",
+    "options": [
+      "PCA",
+      "LDA",
+      "NMF",
+      "Random forest"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 109,
+    "question": "Which of the following is a common method for handling noisy data in data preprocessing?",
+    "options": [
+      "Median filtering",
+      "Moving average smoothing",
+      "Savitzky-Golay filtering",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 110,
+    "question": "Which of the following is not a common method for handling missing data in data preprocessing?",
+    "options": [
+      "Mean imputation",
+      "Median imputation",
+      "Mode imputation",
+      "All of the above are common methods"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 111,
+    "question": "Which of the following is not a common method for handling data heterogeneity in data preprocessing?",
+    "options": [
+      "Data fusion",
+      "Data transformation",
+      "Data discretization",
+      "Random forest"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 112,
+    "question": "Which of the following is a common method for handling time series data in data preprocessing?",
+    "options": [
+      "Moving average smoothing",
+      "Exponential smoothing",
+      "Seasonal decomposition",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 113,
+    "question": "Which of the following is not a common method for handling data skewness in data preprocessing?",
+    "options": [
+      "Log transformation",
+      "Box-Cox transformation",
+      "Power transformation",
+      "Interpolation"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 114,
+    "question": "Which of the following is a common method for handling categorical data in data preprocessing?",
+    "options": [
+      "One-hot encoding",
+      "Binary encoding",
+      "Ordinal encoding",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 115,
+    "question": "Which of the following is a common method for handling imbalanced data in data preprocessing?",
+    "options": [
+      "SMOTE",
+      "Cluster-based undersampling",
+      "NearMiss",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 116,
+    "question": "Which of the following is a common method for handling data sparsity in data preprocessing?",
+    "options": [
+      "Feature selection",
+      "Feature construction",
+      "Dimensionality reduction",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 117,
+    "question": "Which of the following is a common method for handling multi-modal data in data preprocessing?",
+    "options": [
+      "Kernel density estimation",
+      "Histogram-based discretization",
+      "Principal component analysis",
+      "All of the above"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 118,
+    "question": "Which of the following is a common method for handling skewed data in data preprocessing?",
+    "options": [
+      "Log transformation",
+      "Box-Cox transformation",
+      "Power transformation",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 119,
+    "question": "Which of the following is not a common method for handling missing data in data preprocessing?",
+    "options": [
+      "Mean imputation",
+      "Median imputation",
+      "Regression imputation",
+      "All of the above are common methods"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 120,
+    "question": "Which of the following is not a common method for handling noisy data in data preprocessing?",
+    "options": [
+      "Moving average smoothing",
+      "Median filtering",
+      "Savitzky-Golay filtering",
+      "Regression imputation"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 121,
+    "question": "Which of the following is not a common method for feature selection in data preprocessing?",
+    "options": [
+      "Correlation-based feature selection",
+      "Chi-square feature selection",
+      "Random forest feature selection",
+      "Clustering-based feature selection"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 122,
+    "question": "Which of the following is not a common method for dimensionality reduction in data preprocessing?",
+    "options": [
+      "PCA",
+      "LDA",
+      "SVD",
+      "Decision tree"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 123,
+    "question": "Which of the following is a common method for handling data imbalance in data preprocessing?",
+    "options": [
+      "Random oversampling",
+      "Tomek links",
+      "SMOTE",
+      "All of the above"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 124,
+    "question": "Which of the following is a common method for handling missing data in data preprocessing?",
+    "options": [
+      "Mean imputation",
+      "Median imputation",
+      "Regression imputation",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 125,
+    "question": "Which of the following is a common method for handling noisy data in data preprocessing?",
+    "options": [
+      "Median filtering",
+      "Moving average smoothing",
+      "Savitzky-Golay filtering",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 126,
+    "question": "Which of the following is a common method for handling data sparsity in data preprocessing?",
+    "options": [
+      "Dimensionality reduction",
+      "Feature construction",
+      "Feature selection",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 127,
+    "question": "Which of the following is a common method for handling missing data in data preprocessing?",
+    "options": [
+      "KNN imputation",
+      "PCA",
+      "Z-score normalization",
+      "All of the above"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 128,
+    "question": "Which of the following is a common method for handling noisy data in data preprocessing?",
+    "options": [
+      "Moving median smoothing",
+      "Principal component analysis",
+      "Kernel density estimation",
+      "All of the above"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 129,
+    "question": "Which of the following is a common method for handling data imbalance in data preprocessing?",
+    "options": [
+      "Random undersampling",
+      "Cluster-based undersampling",
+      "Tomek links",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 130,
+    "question": "Which of the following is not a common method for handling missing data in data preprocessing?",
+    "options": [
+      "Mean substitution",
+      "Regression imputation",
+      "Stochastic imputation",
+      "All of the above are common methods"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 131,
+    "question": "Which of the following is not a common method for feature selection in data preprocessing?",
+    "options": [
+      "Recursive feature elimination",
+      "Principal component analysis",
+      "Correlation-based feature selection",
+      "Clustering-based feature selection"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 132,
+    "question": "Which of the following is not a common method for handling noisy data in data preprocessing?",
+    "options": [
+      "Moving average smoothing",
+      "Median filtering",
+      "Savitzky-Golay filtering",
+      "Random forest imputation"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 133,
+    "question": "Which of the following is a common method for handling data imbalance in data preprocessing?",
+    "options": [
+      "Random oversampling",
+      "Tomek links",
+      "SMOTE",
+      "All of the above"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 134,
+    "question": "Which of the following is a common method for handling missing data in data preprocessing?",
+    "options": [
+      "Mean imputation",
+      "Median imputation",
+      "Regression imputation",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 135,
+    "question": "Which of the following is a common method for handling noisy data in data preprocessing?",
+    "options": [
+      "Median filtering",
+      "Moving average smoothing",
+      "Savitzky-Golay filtering",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 136,
+    "question": "Which of the following is a common method for handling data sparsity in data preprocessing?",
+    "options": [
+      "Dimensionality reduction",
+      "Feature construction",
+      "Feature selection",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 137,
+    "question": "Which of the following is a common method for handling missing data in data preprocessing?",
+    "options": [
+      "KNN imputation",
+      "PCA",
+      "Z-score normalization",
+      "All of the above"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 138,
+    "question": "Which of the following is a common method for handling noisy data in data preprocessing?",
+    "options": [
+      "Moving median smoothing",
+      "Principal component analysis",
+      "Kernel density estimation",
+      "All of the above"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 139,
+    "question": "Which of the following is a common method for handling data imbalance in data preprocessing?",
+    "options": [
+      "Random undersampling",
+      "Cluster-based undersampling",
+      "Tomek links",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 140,
+    "question": "Which of the following is not a common method for handling missing data in data preprocessing?",
+    "options": [
+      "Mean substitution",
+      "Regression imputation",
+      "Stochastic imputation",
+      "All of the above are common methods"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 141,
+    "question": "Which of the following is not a common method for feature selection in data preprocessing?",
+    "options": [
+      "Recursive feature elimination",
+      "Principal component analysis",
+      "Correlation-based feature selection",
+      "Clustering-based feature selection"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 142,
+    "question": "Which of the following is not a common method for handling noisy data in data preprocessing?",
+    "options": [
+      "Moving average smoothing",
+      "Median filtering",
+      "Savitzky-Golay filtering",
+      "Random forest imputation"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 143,
+    "question": "Which of the following is not a common method for handling noisy data in data preprocessing?",
+    "options": [
+      "Outlier detection",
+      "Median filtering",
+      "Moving average smoothing",
+      "All of the above are common methods"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 144,
+    "question": "Which of the following is not a common method for handling missing data in data preprocessing?",
+    "options": [
+      "Mean substitution",
+      "KNN imputation",
+      "Regression imputation",
+      "All of the above are common methods"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 145,
+    "question": "Which of the following is not a common method for feature construction in data preprocessing?",
+    "options": [
+      "Polynomial expansion",
+      "Discretization",
+      "PCA",
+      "All of the above are common methods"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 146,
+    "question": "Which of the following is not a common method for handling data imbalance in data preprocessing?",
+    "options": [
+      "Random undersampling",
+      "SMOTE",
+      "Tomek links",
+      "All of the above are common methods"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 147,
+    "question": "Which of the following is not a common method for handling missing data in data preprocessing?",
+    "options": [
+      "EM imputation",
+      "Mean imputation",
+      "Regression imputation",
+      "All of the above are common methods"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 148,
+    "question": "Which of the following is a common method for handling data sparsity in text data preprocessing?",
+    "options": [
+      "Term frequency normalization",
+      "PCA",
+      "Winsorization",
+      "All of the above"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 149,
+    "question": "Which of the following is a common method for handling noisy data in data preprocessing?",
+    "options": [
+      "Low-pass filtering",
+      "High-pass filtering",
+      "Band-pass filtering",
+      "All of the above"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 150,
+    "question": "Which of the following is not a common method for handling data imbalance in data preprocessing?",
+    "options": [
+      "SMOTE",
+      "Random oversampling",
+      "Clustering-based oversampling",
+      "All of the above are common methods"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 151,
+    "question": "What is the main objective of similarity measures in data mining?",
+    "options": [
+      "To group data points into clusters",
+      "To compare the relative similarity between pairs of data points",
+      "To identify the most dissimilar data points",
+      "To reduce the dimensionality of the dataset"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 152,
+    "question": "What is the Euclidean distance between two points in a two-dimensional space? square root of \u2026\u2026\u2026",
+    "options": [
+      "(x1 - x2)2 + (y1 - y2)2",
+      "x1 + x2 + y1 + y2",
+      "(x1 - y1)2 + (x2 - y2)2",
+      "None of the above"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 153,
+    "question": "Which of the following distance measures is not commonly used in data mining?",
+    "options": [
+      "Euclidean distance",
+      "Manhattan distance",
+      "Minkowski distance",
+      "Hamming distance"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 154,
+    "question": "Which of the following statements is true about similarity measures?",
+    "options": [
+      "They are always symmetric",
+      "They are always asymmetric",
+      "They can be either symmetric or asymmetric",
+      "They are not used in data mining"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 155,
+    "question": "Which of the following is not an example of a distance measure?",
+    "options": [
+      "Cosine similarity",
+      "Jaccard similarity",
+      "Pearson correlation",
+      "K-Means clustering"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 156,
+    "question": "Which of the following is a measure of similarity rather than distance?",
+    "options": [
+      "Euclidean distance",
+      "Jaccard similarity",
+      "Manhattan distance",
+      "Minkowski distance"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 157,
+    "question": "Which of the following is a drawback of using the Euclidean distance measure in high-dimensional spaces?",
+    "options": [
+      "It is computationally inefficient",
+      "It cannot be used for continuous data",
+      "It is sensitive to outliers",
+      "It is not sensitive to feature scaling"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 158,
+    "question": "Which of the following distance measures is robust to outliers?",
+    "options": [
+      "Euclidean distance",
+      "Manhattan distance",
+      "Mahalanobis distance",
+      "Chebyshev distance"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 159,
+    "question": "Which of the following is not a similarity measure commonly used in text mining?",
+    "options": [
+      "Cosine similarity",
+      "Jaccard similarity",
+      "Levenshtein distance",
+      "Overlap coefficient"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 160,
+    "question": "Which of the following is a normalized similarity measure commonly used in information retrieval?",
+    "options": [
+      "Cosine similarity",
+      "Hamming distance",
+      "Manhattan distance",
+      "Jaccard similarity"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 161,
+    "question": "Which of the following is NOT a similarity measure used in data mining?",
+    "options": [
+      "Euclidean distance",
+      "Jaccard similarity",
+      "Pearson correlation",
+      "Manhattan distance"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 162,
+    "question": "Which of the following statements is true about cosine similarity?",
+    "options": [
+      "It is based on the angle between two vectors.",
+      "It is based on the magnitude of two vectors.",
+      "It is a distance metric.",
+      "It cannot be used to measure similarity between text documents."
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 163,
+    "question": "Which of the following is NOT a disadvantage of using Euclidean distance as a similarity measure?",
+    "options": [
+      "It is sensitive to outliers.",
+      "It does not work well with high- dimensional data.",
+      "It assumes that all dimensions are equally important.",
+      "It is computationally expensive."
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 164,
+    "question": "Which of the following statements is true about the Mahalanobis distance?",
+    "options": [
+      "It is a measure of dissimilarity between two probability distributions.",
+      "It is based on the correlation between two variables.",
+      "It is sensitive to the scale of the variables.",
+      "It is not affected by outliers."
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 165,
+    "question": "Which of the following distance measures can be used for categorical data?",
+    "options": [
+      "Euclidean distance",
+      "Manhattan distance",
+      "Hamming distance",
+      "Cosine similarity"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 166,
+    "question": "Which of the following is NOT a technique for handling missing values?",
+    "options": [
+      "Imputation",
+      "Deletion",
+      "Transformation",
+      "None of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 167,
+    "question": "Which of the following is a disadvantage of using k-nearest neighbor (KNN) for classification?",
+    "options": [
+      "It is sensitive to the choice of k.",
+      "It does not work well with categorical data.",
+      "It is computationally expensive.",
+      "It cannot handle missing values."
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 168,
+    "question": "Which of the following statements is true about the cosine distance?",
+    "options": [
+      "It is a measure of dissimilarity between two probability distributions.",
+      "It is based on the magnitude of two vectors.",
+      "It is not affected by the scale of the variables.",
+      "It cannot be used to measure similarity between text documents."
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 169,
+    "question": "Which of the following statements is true about the Jaccard similarity?",
+    "options": [
+      "It is a measure of dissimilarity between two probability distributions.",
+      "It is based on the angle between two vectors.",
+      "It is a binary similarity measure.",
+      "It cannot be used to measure similarity between sets."
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 170,
+    "question": "Which of the following is a disadvantage of using the Pearson correlation coefficient as a similarity measure?",
+    "options": [
+      "It does not work well with high- dimensional data.",
+      "It assumes that all dimensions are equally important.",
+      "It is sensitive to outliers.",
+      "It cannot be used to measure similarity between binary data."
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 171,
+    "question": "Which of the following distance measures is not appropriate for categorical data?",
+    "options": [
+      "Euclidean distance",
+      "Hamming distance",
+      "Jaccard distance",
+      "Minkowski distance"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 172,
+    "question": "Which of the following is an example of a similarity measure?",
+    "options": [
+      "Manhattan distance",
+      "Cosine similarity",
+      "Minkowski distance",
+      "Mahalanobis distance"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 173,
+    "question": "Which of the following is a disadvantage of using the Jaccard coefficient for similarity measurement?",
+    "options": [
+      "It is not suitable for binary data",
+      "It is sensitive to data scale",
+      "It does not take into account the frequency of occurrence of data values",
+      "It is not suitable for large datasets"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 174,
+    "question": "Which of the following is a disadvantage of using the Mahalanobis distance for similarity measurement?",
+    "options": [
+      "It assumes that the data is normally distributed",
+      "It is not suitable for high-dimensional data",
+      "It is sensitive to outliers",
+      "It is computationally expensive"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 175,
+    "question": "Which of the following is a disadvantage of using the cosine similarity for similarity measurement?",
+    "options": [
+      "It does not take into account the length of the vectors",
+      "It is not suitable for sparse data",
+      "It is sensitive to data scale",
+      "It assumes that the data is normally distributed"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 176,
+    "question": "Which of the following distance measures is best suited for continuous data with outliers?",
+    "options": [
+      "Euclidean distance",
+      "Manhattan distance",
+      "Minkowski distance",
+      "Mahalanobis distance"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 177,
+    "question": "Which of the following similarity measures is best suited for text data?",
+    "options": [
+      "Cosine similarity",
+      "Jaccard coefficient",
+      "Euclidean distance",
+      "Hamming distance"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 178,
+    "question": "Which of the following is a disadvantage of using the Hamming distance for similarity measurement?",
+    "options": [
+      "It is not suitable for binary data",
+      "It is sensitive to data scale",
+      "It is not suitable for categorical data",
+      "It does not take into account the order of the data values"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 179,
+    "question": "Which of the following distance measures is best suited for discrete data?",
+    "options": [
+      "Euclidean distance",
+      "Hamming distance",
+      "Manhattan distance",
+      "Minkowski distance"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 180,
+    "question": "Which of the following is a disadvantage of using the Euclidean distance for similarity measurement?",
+    "options": [
+      "It is not suitable for high-dimensional data",
+      "It is sensitive to outliers",
+      "It is not suitable for continuous data",
+      "It assumes that the data is normally distributed"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 181,
+    "question": "Which of the following distance measures is not used in clustering analysis?",
+    "options": [
+      "Euclidean distance",
+      "Manhattan distance",
+      "Mahalanobis distance",
+      "Pearson correlation distance"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 182,
+    "question": "Which distance measure is appropriate for categorical variables?",
+    "options": [
+      "Euclidean distance",
+      "Manhattan distance",
+      "Mahalanobis distance",
+      "Hamming distance"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 183,
+    "question": "Which of the following statements is true about cosine similarity?",
+    "options": [
+      "It is a distance measure that ranges from 0 to 1.",
+      "It is a distance measure that ranges from - 1 to 1.",
+      "It is a similarity measure that ranges from 0 to 1.",
+      "It is a similarity measure that ranges from -1 to 1."
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 184,
+    "question": "Which of the following is an example of a kernel function?",
+    "options": [
+      "Gaussian kernel",
+      "Linear kernel",
+      "Polynomial kernel",
+      "All of the above"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 185,
+    "question": "Which of the following clustering algorithms is based on the concept of centroids?",
+    "options": [
+      "K-means clustering",
+      "Hierarchical clustering",
+      "Density-based clustering",
+      "Spectral clustering"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 186,
+    "question": "Which of the following is not a disadvantage of the k-means clustering algorithm?",
+    "options": [
+      "Sensitivity to initial centroids",
+      "Inability to handle categorical data",
+      "Difficulty in determining the optimal number of clusters",
+      "Susceptibility to outliers"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 187,
+    "question": "Which of the following is a type of hierarchical clustering?",
+    "options": [
+      "K-means clustering",
+      "Agglomerative clustering",
+      "Density-based clustering",
+      "Fuzzy clustering"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 188,
+    "question": "Which of the following is a measure of the quality of a clustering solution?",
+    "options": [
+      "Silhouette coefficient",
+      "F-measure",
+      "AUC-ROC score",
+      "Precision-recall curve"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 189,
+    "question": "Which of the following is a method for outlier detection?",
+    "options": [
+      "Local Outlier Factor (LOF)",
+      "Principal Component Analysis (PCA)",
+      "Linear Discriminant Analysis (LDA)",
+      "Support Vector Machines (SVM)"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 190,
+    "question": "Which of the following is a disadvantage of hierarchical clustering?",
+    "options": [
+      "Difficulty in determining the optimal number of clusters",
+      "Sensitivity to initial centroids",
+      "Susceptibility to outliers",
+      "Inability to handle categorical data"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 191,
+    "question": "Which of the following is not a common type of frequent pattern mining?",
+    "options": [
+      "Association rule mining",
+      "Closed pattern mining",
+      "Sequential pattern mining",
+      "Maximum pattern mining"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 192,
+    "question": "In frequent pattern mining, support refers to:",
+    "options": [
+      "The number of transactions containing a pattern",
+      "The percentage of transactions containing a pattern",
+      "The probability of a pattern occurring in a transaction",
+      "The number of times a pattern occurs in all transactions"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 193,
+    "question": "Which of the following algorithms is not commonly used for association rule mining?",
+    "options": [
+      "Apriori",
+      "FP-growth",
+      "ECLAT",
+      "DBSCAN"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 194,
+    "question": "What is the difference between closed pattern mining and maximal pattern mining?",
+    "options": [
+      "Closed pattern mining only finds patterns with a minimum support threshold, while maximal pattern mining finds all patterns.",
+      "Maximal pattern mining only finds patterns with a minimum support threshold, while closed pattern mining finds all patterns.",
+      "Closed pattern mining finds patterns that are not subpatterns of any other patterns with the same support, while maximal pattern mining finds patterns that are not properly contained in any other patterns with the same support.",
+      "Maximal pattern mining finds patterns that are not subpatterns of any other patterns with the same support, while closed pattern mining finds patterns that are not properly contained in any other patterns with the same support."
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 195,
+    "question": "Which of the following is a disadvantage of association rule mining?",
+    "options": [
+      "It can find interesting patterns that might not be discovered using other techniques.",
+      "It can be computationally expensive for large datasets.",
+      "It can only find patterns with a minimum support threshold.",
+      "It cannot handle categorical data."
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 196,
+    "question": "Which of the following is not a common measure of the interestingness of an association rule?",
+    "options": [
+      "Support",
+      "Confidence",
+      "Lift",
+      "Entropy"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 197,
+    "question": "Which of the following is a common method for reducing the number of association rules generated by a frequent pattern mining algorithm?",
+    "options": [
+      "Increasing the minimum support threshold",
+      "Decreasing the minimum support threshold",
+      "Increasing the minimum confidence threshold",
+      "Decreasing the minimum confidence threshold"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 198,
+    "question": "Which of the following is a limitation of frequent pattern mining in transaction databases?",
+    "options": [
+      "It cannot handle datasets with high dimensionality.",
+      "It requires that all transactions have the same length.",
+      "It cannot handle datasets with missing values.",
+      "It is biased towards frequent patterns that are short and simple."
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 199,
+    "question": "Which of the following is an example of a sequential pattern mining problem?",
+    "options": [
+      "Finding frequent itemsets in a transaction database",
+      "Identifying groups of customers with similar purchasing behavior",
+      "Detecting patterns of activity in a time series of events",
+      "Classifying images based on their content"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 200,
+    "question": "Which of the following is a common approach for handling noise and outliers in frequent pattern mining?",
+    "options": [
+      "Increasing the minimum support threshold",
+      "Decreasing the minimum support threshold",
+      "Removing transactions with low support",
+      "Using clustering to identify groups of similar transactions"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 201,
+    "question": "What is the primary goal of clustering analysis?",
+    "options": [
+      "To identify groups of similar objects",
+      "To predict future outcomes",
+      "To identify frequent itemsets",
+      "To build classification models"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 202,
+    "question": "Which of the following is not a commonly used distance metric for clustering analysis?",
+    "options": [
+      "Euclidean distance",
+      "Manhattan distance",
+      "Cosine distance",
+      "Pearson correlation coefficient"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 203,
+    "question": "Which of the following is not a common clustering algorithm?",
+    "options": [
+      "K-means",
+      "DBSCAN",
+      "Support Vector Machines (SVM)",
+      "Hierarchical clustering"
+    ],
+    "answer": "C",
+    "answerIndex": 2,
+    "type": "mcq"
+  },
+  {
+    "id": 204,
+    "question": "In K-means clustering, how is the initial centroid for each cluster selected?",
+    "options": [
+      "Randomly",
+      "Based on the first data point",
+      "Based on the last data point",
+      "Based on the mean of all data points"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 205,
+    "question": "Which of the following is not a drawback of hierarchical clustering?",
+    "options": [
+      "High computational cost",
+      "Difficulty in determining the optimal number of clusters",
+      "Sensitivity to outliers",
+      "Inability to handle large datasets"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 206,
+    "question": "What is the Silhouette coefficient used for in clustering analysis?",
+    "options": [
+      "To measure the quality of clustering",
+      "To identify the optimal number of clusters",
+      "To select the best distance metric",
+      "To compare the performance of different clustering algorithms"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 207,
+    "question": "In DBSCAN clustering, what are the two main parameters that need to be specified?",
+    "options": [
+      "Minimum number of points and maximum radius",
+      "Maximum number of points and minimum radius",
+      "Minimum number of points and minimum radius",
+      "Maximum number of points and maximum radius"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 208,
+    "question": "Which of the following statements is true about density-based clustering algorithms?",
+    "options": [
+      "They can identify clusters of any shape and size",
+      "They can only identify spherical clusters",
+      "They are less sensitive to outliers compared to other clustering algorithms",
+      "They are faster than other clustering algorithms"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 209,
+    "question": "Which of the following is a disadvantage of partitioning clustering algorithms like K-means?",
+    "options": [
+      "They are computationally expensive",
+      "They can only identify spherical clusters",
+      "They are sensitive to outliers",
+      "They require a pre-specified number of clusters"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 210,
+    "question": "In spectral clustering, how is the similarity matrix computed?",
+    "options": [
+      "Based on the Euclidean distance between data points",
+      "Based on the cosine similarity between data points",
+      "Based on the correlation coefficient between data points",
+      "Based on the eigenvalues and eigenvectors of the Laplacian matrix"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 211,
+    "question": "Which of the following is not a commonly used clustering algorithm?",
+    "options": [
+      "K-Means",
+      "DBSCAN",
+      "Agglomerative Hierarchical Clustering",
+      "Random Forest"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 212,
+    "question": "Which of the following is an example of a distance-based similarity measure?",
+    "options": [
+      "Cosine similarity",
+      "Jaccard similarity",
+      "Pearson correlation coefficient",
+      "Mutual information"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 213,
+    "question": "Which clustering algorithm is suitable for non-convex clusters of varying sizes and shapes?",
+    "options": [
+      "K-Means",
+      "DBSCAN",
+      "Agglomerative Hierarchical Clustering",
+      "Gaussian Mixture Model"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 214,
+    "question": "Which of the following is not a commonly used linkage criterion for hierarchical clustering?",
+    "options": [
+      "Single linkage",
+      "Complete linkage",
+      "Average linkage",
+      "k-means linkage"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 215,
+    "question": "Which of the following is an example of a density-based clustering algorithm?",
+    "options": [
+      "K-Means",
+      "DBSCAN",
+      "Agglomerative Hierarchical Clustering",
+      "Gaussian Mixture Model"
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 216,
+    "question": "Which of the following is not a commonly used initialization method for K-Means clustering?",
+    "options": [
+      "Random initialization",
+      "K-Means++ initialization",
+      "Principal component analysis (PCA) initialization",
+      "Hierarchical clustering initialization"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 217,
+    "question": "Which clustering algorithm assigns points to the nearest centroid and updates the centroid with the mean of the points in its cluster?",
+    "options": [
+      "K-Means",
+      "DBSCAN",
+      "Agglomerative Hierarchical Clustering",
+      "Gaussian Mixture Model"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 218,
+    "question": "Which of the following is a disadvantage of hierarchical clustering?",
+    "options": [
+      "It can handle large datasets with millions of points.",
+      "It requires prior knowledge of the number of clusters.",
+      "It is sensitive to the initialization of the centroids.",
+      "It does not scale well with high- dimensional data."
+    ],
+    "answer": "B",
+    "answerIndex": 1,
+    "type": "mcq"
+  },
+  {
+    "id": 219,
+    "question": "Which of the following is an example of a model-based clustering algorithm?",
+    "options": [
+      "K-Means",
+      "DBSCAN",
+      "Agglomerative Hierarchical Clustering",
+      "Gaussian Mixture Model"
+    ],
+    "answer": "D",
+    "answerIndex": 3,
+    "type": "mcq"
+  },
+  {
+    "id": 220,
+    "question": "Which of the following is a measure of the quality of clustering that evaluates the compactness and separation of the clusters?",
+    "options": [
+      "Silhouette coefficient",
+      "Dunn index",
+      "Davies-Bouldin index",
+      "Calinski-Harabasz index"
+    ],
+    "answer": "A",
+    "answerIndex": 0,
+    "type": "mcq"
+  },
+  {
+    "id": 221,
+    "question": "Data mining is the process of extracting useful patterns and knowledge from large datasets.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 222,
+    "question": "Data preprocessing is an optional step in the data mining process.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 223,
+    "question": "Classification is a data mining technique used for predicting continuous numerical values.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 224,
+    "question": "Data mining can be used to improve business operations and decision-making.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 225,
+    "question": "Data cleaning is the process of transforming raw data into a format suitable for analysis.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 226,
+    "question": "Data integration is the process of combining data from different sources into a single dataset.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 227,
+    "question": "Discretization is the process of transforming continuous data into discrete values.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 228,
+    "question": "Data reduction techniques are used to eliminate noisy or irrelevant data from a dataset.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 229,
+    "question": "The Euclidean distance is a measure of similarity between two data points.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 230,
+    "question": "Cosine similarity is commonly used in text mining to measure the similarity between documents.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 231,
+    "question": "The Jaccard similarity coefficient is used to measure the similarity between continuous numerical values.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 232,
+    "question": "The Manhattan distance is equivalent to the L1 norm.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 233,
+    "question": "Association rule mining is used to identify patterns in transactional data.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 234,
+    "question": "The Apriori algorithm is used to identify frequent itemsets in a dataset.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 235,
+    "question": "Support measures the frequency of an itemset in the dataset.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 236,
+    "question": "The confidence of an association rule measures how often the antecedent and consequent items appear together in the dataset.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 237,
+    "question": "One of the key challenges in data mining is dealing with the curse of dimensionality.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 238,
+    "question": "The goal of data cleaning is to eliminate all noisy data from the dataset.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 239,
+    "question": "Clustering is a type of supervised learning algorithm.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 240,
+    "question": "Data preprocessing is not a necessary step in data mining, and can be skipped if the dataset is already clean and well-organized.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 241,
+    "question": "The goal of data transformation is to convert data from one format to another, such as from numerical to categorical data.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 242,
+    "question": "Data discretization is a technique used to transform continuous data into discrete data by dividing the data into intervals or bins.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 243,
+    "question": "Data normalization is a technique used to transform data so that it has a mean of zero and a standard deviation of one.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 244,
+    "question": "Data reduction techniques are used to remove irrelevant or redundant data from the dataset in order to reduce its size and complexity.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 245,
+    "question": "Euclidean distance is a commonly used distance metric in data mining that is calculated as the sum of the absolute differences between the values of the corresponding attributes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 246,
+    "question": "Manhattan distance is a distance metric that calculates the distance between two points as the sum of the absolute differences between the values of the corresponding attributes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 247,
+    "question": "The cosine similarity measure is a distance metric that measures the angle between two vectors in a high-dimensional space.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 248,
+    "question": "A dendrogram is a tree-like diagram used to represent the results of hierarchical clustering.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 249,
+    "question": "Association rule mining is a data mining technique used to discover patterns of association between different items in a dataset.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 250,
+    "question": "The support of an itemset is the percentage of transactions in the dataset that contain that itemset.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 251,
+    "question": "The confidence of a rule is the percentage of transactions that contain the antecedent of the rule that also contain the consequent.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 252,
+    "question": "The Apriori algorithm is a bottom-up approach to association rule mining that starts with frequent itemsets and builds larger itemsets by combining them.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 253,
+    "question": "In frequent pattern mining, a pattern is considered frequent if it occurs in at least a certain percentage of transactions in the dataset.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 254,
+    "question": "Decision trees can be used for both classification and regression analysis.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 255,
+    "question": "Data preprocessing involves the cleaning and transformation of data.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 256,
+    "question": "Association rule mining is used to identify frequent patterns in data.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 257,
+    "question": "Neural networks are a type of unsupervised learning algorithm.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 258,
+    "question": "Clustering is a supervised learning technique.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 259,
+    "question": "Data reduction techniques involve compressing and summarizing large amounts of data.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 260,
+    "question": "The K-nearest neighbors algorithm is an example of a parametric method.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  },
+  {
+    "id": 261,
+    "question": "The Apriori algorithm is used to mine association rules in large datasets.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 262,
+    "question": "The mean is a measure of central tendency used in data analysis.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 263,
+    "question": "Feature scaling is the process of converting data to a uniform scale.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "answerIndex": 0,
+    "type": "boolean"
+  },
+  {
+    "id": 264,
+    "question": "Generating association rules from frequent itemset is the difficult part of mining operation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "answerIndex": 1,
+    "type": "boolean"
+  }
+]
