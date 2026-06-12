@@ -364,7 +364,7 @@
       "Euclidean distance",
       "Hamming distance",
       "Jaccard distance",
-      "Minkowski distance Considering the following transactions table, answer questions 30, 31, and 32: TID Set of Items 1 {Bread, Butter, Milk} 2 {Eggs, Milk, Yogurt} 3 {Bread, Cheese, Eggs, Milk} 4 {Eggs, Milk, Yogurt} 5 {Cheese, Milk, Yogurt}"
+      "Minkowski distance"
     ],
     "answer": "A",
     "answerIndex": 0,
