@@ -3,6 +3,7 @@ import ProgressBar from './ProgressBar';
 import Question from './Question';
 import Result from './Result';
 import rawQuestions from '../data/questions.json';
+import bLiteQuestions from '../data/b_lite.json';
 
 const shuffleArray = (array) => {
   const arr = [...array];
@@ -13,7 +14,7 @@ const shuffleArray = (array) => {
   return arr;
 };
 
-const CATEGORY_NAMES = {
+const MAIN_CATEGORY_NAMES = {
   all: 'All Categories',
   intro_concepts: 'Intro & Concepts',
   data_preprocessing: 'Data Preprocessing',
@@ -24,7 +25,7 @@ const CATEGORY_NAMES = {
   true_false: 'True & False'
 };
 
-const CATEGORY_ICONS = {
+const MAIN_CATEGORY_ICONS = {
   all: '📚',
   intro_concepts: '💡',
   data_preprocessing: '🧹',
@@ -35,6 +36,18 @@ const CATEGORY_ICONS = {
   true_false: '✔️'
 };
 
+const B_LITE_CATEGORY_NAMES = {
+  all: 'All Questions',
+  true_false: 'True & False',
+  multiple_choice: 'Multiple Choice'
+};
+
+const B_LITE_CATEGORY_ICONS = {
+  all: '⚡',
+  true_false: '✔️',
+  multiple_choice: '📝'
+};
+
 const Quiz = () => {
   // Config & State
   const [phase, setPhase] = useState('welcome'); // 'welcome' | 'active' | 'completed'
@@ -43,33 +56,50 @@ const Quiz = () => {
   const [userAnswers, setUserAnswers] = useState({}); // { [questionIndex]: selectedOptionIndex }
   const [flaggedQuestions, setFlaggedQuestions] = useState({}); // { [questionIndex]: boolean }
   const [selectedCategory, setSelectedCategory] = useState('all');
+  const [activeBank, setActiveBank] = useState('main'); // 'main' | 'b_lite'
   
   // Customization Options
   const [shuffleEnabled, setShuffleEnabled] = useState(false);
 
+  const currentBankQuestions = activeBank === 'main' ? rawQuestions : bLiteQuestions;
+
   // Initialize questions
   useEffect(() => {
-    setQuestions(rawQuestions);
-  }, []);
+    setQuestions(currentBankQuestions);
+  }, [activeBank]);
+
+  const handleBankChange = (newBank) => {
+    setActiveBank(newBank);
+    setSelectedCategory('all');
+  };
 
   // Get question counts per category
   const getCategoryCounts = () => {
-    const counts = { all: rawQuestions.length, true_false: 0 };
-    rawQuestions.forEach(q => {
-      const cat = q.category || 'intro_concepts';
-      counts[cat] = (counts[cat] || 0) + 1;
-      if (q.type === 'boolean') {
-        counts.true_false += 1;
-      }
-    });
-    return counts;
+    if (activeBank === 'main') {
+      const counts = { all: rawQuestions.length, true_false: 0 };
+      rawQuestions.forEach(q => {
+        const cat = q.category || 'intro_concepts';
+        counts[cat] = (counts[cat] || 0) + 1;
+        if (q.type === 'boolean') {
+          counts.true_false += 1;
+        }
+      });
+      return counts;
+    } else {
+      const counts = { all: bLiteQuestions.length, true_false: 0, multiple_choice: 0 };
+      bLiteQuestions.forEach(q => {
+        const cat = q.category || 'multiple_choice';
+        counts[cat] = (counts[cat] || 0) + 1;
+      });
+      return counts;
+    }
   };
 
   const categoryCounts = getCategoryCounts();
 
   // Start the quiz
   const handleStartQuiz = () => {
-    let quizQuestions = [...rawQuestions];
+    let quizQuestions = [...currentBankQuestions];
     if (selectedCategory === 'true_false') {
       quizQuestions = quizQuestions.filter(q => q.type === 'boolean');
     } else if (selectedCategory !== 'all') {
@@ -150,7 +180,7 @@ const Quiz = () => {
     setFlaggedQuestions({});
     setCurrentIndex(0);
     
-    let quizQuestions = [...rawQuestions];
+    let quizQuestions = [...currentBankQuestions];
     if (selectedCategory === 'true_false') {
       quizQuestions = quizQuestions.filter(q => q.type === 'boolean');
     } else if (selectedCategory !== 'all') {
@@ -171,6 +201,9 @@ const Quiz = () => {
     }, 0);
   };
 
+  const CATEGORY_NAMES = activeBank === 'main' ? MAIN_CATEGORY_NAMES : B_LITE_CATEGORY_NAMES;
+  const CATEGORY_ICONS = activeBank === 'main' ? MAIN_CATEGORY_ICONS : B_LITE_CATEGORY_ICONS;
+
   // Welcome Screen Render
   if (phase === 'welcome') {
     return (
@@ -178,8 +211,28 @@ const Quiz = () => {
         <div className="welcome-icon">⚡</div>
         <h2 className="welcome-title">Data Mining Questions Bank</h2>
         <p className="welcome-description">
-          Practice and master core concepts with {rawQuestions.length} questions organized into key topics.
+          Practice and master core concepts with {currentBankQuestions.length} questions organized into key topics.
         </p>
+
+        <div className="bank-selector-container">
+          <span className="bank-selector-label">Select Question Bank</span>
+          <div className="bank-selector-tabs">
+            <button
+              type="button"
+              className={`bank-tab ${activeBank === 'main' ? 'active' : ''}`}
+              onClick={() => handleBankChange('main')}
+            >
+              📚 DM Qbank ({rawQuestions.length} Qs)
+            </button>
+            <button
+              type="button"
+              className={`bank-tab ${activeBank === 'b_lite' ? 'active' : ''}`}
+              onClick={() => handleBankChange('b_lite')}
+            >
+              ⚡ B-Lite ({bLiteQuestions.length} Qs)
+            </button>
+          </div>
+        </div>
 
         <h3 className="categories-title">Select Topic</h3>
         <div className="categories-grid">

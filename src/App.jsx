@@ -57,7 +57,7 @@ function App() {
         color: 'var(--text-muted)', 
         fontSize: '0.85rem' 
       }}>
-        <p>&copy; {new Date().getFullYear()} Data Mining Quiz App. All 264 questions extracted from bank.</p>
+        <p>&copy; {new Date().getFullYear()} Data Mining Quiz App. 264 questions in Main Bank, 53 questions in B-Lite Bank.</p>
       </footer>
     </div>
   );

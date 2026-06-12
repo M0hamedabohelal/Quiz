@@ -9,7 +9,8 @@ const CATEGORY_NAMES = {
   clustering: 'Clustering Analysis',
   association_rules: 'Association Rules',
   classification_ml: 'Classification & ML',
-  true_false: 'True & False'
+  true_false: 'True & False',
+  multiple_choice: 'Multiple Choice'
 };
 
 const Result = ({ score, total, userAnswers, questions, flaggedQuestions = {}, onRestart }) => {
