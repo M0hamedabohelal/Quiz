@@ -604,8 +604,8 @@
       "sup(X∩Y)/sup(X)",
       "sup(X∩Y)/sup(Y)"
     ],
-    "answer": "D",
-    "answerIndex": 3,
+    "answer": "C",
+    "answerIndex": 2,
     "type": "mcq",
     "category": "multiple_choice"
   },
